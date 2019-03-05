@@ -1,0 +1,4 @@
+before_script: cd fitness_tracker_api
+language: node_js
+node_js:
+  -  "lts/*"
